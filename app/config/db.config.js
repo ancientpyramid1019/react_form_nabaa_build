@@ -1,5 +1,5 @@
 module.exports = {
-  HOST: "https://nodejs-postgresql-x7po.onrender.com/",
+  HOST: "localhost",
   PORT: 27017,
   DB: "evaluation_db"
 };
